@@ -3,6 +3,8 @@
 
 int main(int argc, chat **argv)
 {
+
+MyClass c;
 std::cout<<"Hello, world" << std::endl;
 std::cout<<"This is a newly added line" << std::endl;
 
